@@ -8,7 +8,7 @@ const ChangeValueButton = styled.button`
 `;
 
 const ButtonWrapper = styled.button`
-  display: inline-block;
+  display: flex;
 `;
 
 function App() {
